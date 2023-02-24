@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atharv-raskar
-- 👀 I’m interested in data analyst
-- 🌱 I’m currently learning guitar/ data analyst
+- 👀 I’m Pursing Data Science & Big Data Analyst
+- 🌱 I’m currently learning guitar
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me instagram - atharv_raskar
 
